@@ -25,7 +25,7 @@ SECRET_KEY = '$al&tyqcfq7%8)oo9xv-n9$^#%@l9tdjp@&46#tuwb#x(j+p=5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hirzan.cmcloudlab1831.info', 'localhost', '127.0.0.1']
 
 
 # Application definition
